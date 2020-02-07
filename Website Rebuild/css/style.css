@@ -1,0 +1,104 @@
+.title-font{
+    font-family: 'Lilita One', cursive;
+}
+#posRell{
+    position: relative;
+}
+#hero-1{
+    background-image: url("../images/comboByDave.jpg");
+    background-size: cover;
+    background-position: center center;
+    height: 74vh;
+}
+#hero-2{
+    background-image: url("../images/pep-w-bubble.jpg");
+    background-size: cover;
+    background-position: left center;
+    height: 74vh;
+}
+#hero-3{
+    background-image: url("../images/gar-mozz.jpg");
+    background-size: cover;
+    background-position: center center;
+    height: 74vh;
+}
+#hero-4{
+    background-image: url("../images/pep-sausage.jpg");
+    background-size: cover;
+    background-position: left center;
+    height: 74vh;
+}
+#hero-content{
+    font-family: 'Lilita One', cursive;
+    font-weight: bolder;
+    border-bottom: 5px solid rgb(11, 165, 11);
+    text-transform: uppercase;
+    position: absolute;
+    top: 40px;
+    right: 20px;
+    color: rgb(23, 181, 209);
+    text-shadow: 8px 8px 10px rgb(0, 0, 0),
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+.p-margin{
+    margin-bottom: 0;
+}
+.font-wieght{
+    font-weight: bolder;
+}
+.gar-mozz{
+    width: 400px;
+}
+.blt{
+    width: 400px;
+    height: 180px;
+}
+.bottom-boarder{
+    border-bottom: 5px solid chartreuse;
+}
+.borders-border{
+    border-bottom: 2px solid black;
+}
+
+.cafe-images{
+    width: 300px;
+    height: 250px;
+}
+
+.title-font-size{
+    font-size: 35px;
+}
+
+.img-1{
+    float: left;
+    width: 275px;
+    height: 377px;
+}
+
+.main-content{
+    border: 3px;
+    border-style: solid;
+    border-color: chartreuse;
+    border-radius: 10px;
+}
+
+.main-background{
+    background-color: rgb(13, 54, 13);
+}
+
+.rounded-border{
+    border-radius: 10px;
+}
+
+.main-content-background{
+    background-color: rgb(118, 202, 118);
+}
+.white{
+    color: white !important
+}
+.black{
+    color: black !important
+}
